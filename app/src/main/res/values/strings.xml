@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ManadoSnacking</string>
+    <string name="namakuliner">Nama Kuliner</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nama_kuliner">Nama Kuliner</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="ket">Keterangan</string>
+    <string name="about">About</string>
+    <string name="dash">------</string>
+    <string name="lusius_febrianus_maro">Lusius Febrianus Maro</string>
+    <string name="lusiusfebry_gmail_com">lusiusfebry@gmail.com</string>
+    <string name="about_me">About Me</string>
+</resources>
